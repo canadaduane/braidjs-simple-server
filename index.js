@@ -1,0 +1,1 @@
+var bus = require('braidjs').serve()

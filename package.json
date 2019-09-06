@@ -1,0 +1,16 @@
+{
+  "name": "braidjs-simple-server",
+  "version": "1.0.0",
+  "description": "Simple braidjs server for decentralized web state synchronization",
+  "main": "index.js",
+  "repository": "https://github.com/canadaduane/braidjs-simple-server",
+  "author": "Duane Johnson",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "braidjs": "^7.0.0",
+    "nodemon": "^1.19.2"
+  }
+}
